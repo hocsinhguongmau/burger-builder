@@ -1,12 +1,18 @@
-import React from "react";
+import React, {Component} from "react";
 import Auxiliary from "../../hoc/Auxiliary";
+import Toolbar from "../Navigation/Toolbar/Toolbar";
+import SideDrawer from "../Navigation/SideDrawer/SideDrawer";
 import classes from "./Layout.module.scss";
 
-const Layout = props => (
-	<Auxiliary>
-		<div>Toolbar, Sidedrawer, Backdrop</div>
-		<main className={classes.Content}>{props.children}</main>
-	</Auxiliary>
-);
-
+class Layout extends Component {
+	render() {
+		return (
+			<Auxiliary>
+				<Toolbar />
+				<SideDrawer />
+				<main className={classes.Content}>{this.props.children}</main>
+			</Auxiliary>
+		);
+	}
+}
 export default Layout;
