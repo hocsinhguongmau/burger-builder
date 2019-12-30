@@ -8,9 +8,11 @@ import classes from "./SideDrawer.module.scss";
 const sideDrawer = props => {
 	return (
 		<Auxiliary>
-			<Backdrop show />
+			<Backdrop show={props.open} clicked={props.closed} />
 			<div className={classes.SideDrawer}>
-				<Logo />
+				<div className={classes.Logo}>
+					<Logo />
+				</div>
 				<nav>
 					<NavigationItems />
 				</nav>
