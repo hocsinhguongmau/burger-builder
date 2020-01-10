@@ -1,8 +1,11 @@
 .BuildControl {
     display: flex;
+    flex-flow: row;
     justify-content: space-between;
     align-items: center;
     margin: 5px 0;
+    width: 80%;
+    max-width: 300px;
 }
 
 .BuildControl button {
@@ -10,7 +13,7 @@
     font: inherit;
     padding: 5px;
     margin: 0 5px;
-    width: 80px;
+    width: 100%;
     border: 1px solid #AA6817;
     cursor: pointer;
     outline: none;
@@ -33,7 +36,8 @@
 .Label {
     padding: 10px;
     font-weight: bold;
-    width: 80px;
+    width: 80%;
+    max-width: 80px;
 }
 
 .BuildControl .Less {
