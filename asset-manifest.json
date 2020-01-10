@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/burger-builder/static/css/main.fea91181.chunk.css",
-    "main.js": "/burger-builder/static/js/main.66dc6e03.chunk.js",
-    "main.js.map": "/burger-builder/static/js/main.66dc6e03.chunk.js.map",
+    "main.css": "/burger-builder/static/css/main.385c66f1.chunk.css",
+    "main.js": "/burger-builder/static/js/main.3406d0d8.chunk.js",
+    "main.js.map": "/burger-builder/static/js/main.3406d0d8.chunk.js.map",
     "runtime-main.js": "/burger-builder/static/js/runtime-main.8eea6c34.js",
     "runtime-main.js.map": "/burger-builder/static/js/runtime-main.8eea6c34.js.map",
     "static/css/2.056923e8.chunk.css": "/burger-builder/static/css/2.056923e8.chunk.css",
-    "static/js/2.305167a2.chunk.js": "/burger-builder/static/js/2.305167a2.chunk.js",
-    "static/js/2.305167a2.chunk.js.map": "/burger-builder/static/js/2.305167a2.chunk.js.map",
+    "static/js/2.6669cc9f.chunk.js": "/burger-builder/static/js/2.6669cc9f.chunk.js",
+    "static/js/2.6669cc9f.chunk.js.map": "/burger-builder/static/js/2.6669cc9f.chunk.js.map",
     "index.html": "/burger-builder/index.html",
-    "precache-manifest.75fdc0781eaff3f2a186cef8eb03240f.js": "/burger-builder/precache-manifest.75fdc0781eaff3f2a186cef8eb03240f.js",
+    "precache-manifest.05ff7cfdd12ed0dc19ee56a63e5c57cd.js": "/burger-builder/precache-manifest.05ff7cfdd12ed0dc19ee56a63e5c57cd.js",
     "service-worker.js": "/burger-builder/service-worker.js",
     "static/css/2.056923e8.chunk.css.map": "/burger-builder/static/css/2.056923e8.chunk.css.map",
-    "static/css/main.fea91181.chunk.css.map": "/burger-builder/static/css/main.fea91181.chunk.css.map",
-    "static/js/2.305167a2.chunk.js.LICENSE": "/burger-builder/static/js/2.305167a2.chunk.js.LICENSE",
+    "static/css/main.385c66f1.chunk.css.map": "/burger-builder/static/css/main.385c66f1.chunk.css.map",
+    "static/js/2.6669cc9f.chunk.js.LICENSE": "/burger-builder/static/js/2.6669cc9f.chunk.js.LICENSE",
     "static/media/burger-logo.png": "/burger-builder/static/media/burger-logo.b8503d26.png",
     "static/media/index.css": "/burger-builder/static/media/roboto-latin-900italic.ebf6d164.woff2"
   },
   "entrypoints": [
     "static/js/runtime-main.8eea6c34.js",
     "static/css/2.056923e8.chunk.css",
-    "static/js/2.305167a2.chunk.js",
-    "static/css/main.fea91181.chunk.css",
-    "static/js/main.66dc6e03.chunk.js"
+    "static/js/2.6669cc9f.chunk.js",
+    "static/css/main.385c66f1.chunk.css",
+    "static/js/main.3406d0d8.chunk.js"
   ]
 }
