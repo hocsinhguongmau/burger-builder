@@ -17,9 +17,11 @@ const sideDrawer = props => {
 				<div className={classes.Logo}>
 					<Logo />
 				</div>
-				<nav>
-					<NavigationItems />
-				</nav>
+				{
+					// <nav>
+					// 	<NavigationItems />
+					// </nav>
+				}
 			</div>
 		</Auxiliary>
 	);
